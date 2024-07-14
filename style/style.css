@@ -52,7 +52,7 @@ header > p {
     font-size: 1.2em;
     font-family: var(--fonte-padrao);
     padding: 10px;
-    margin-bottom: 30px;
+    padding-bottom: 50px;
 }
 main {
     margin: auto;
